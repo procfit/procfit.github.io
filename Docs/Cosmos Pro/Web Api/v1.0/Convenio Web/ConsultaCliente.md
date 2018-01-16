@@ -30,14 +30,15 @@ A consulta de consulta de cliente da API Cosmos Pro é realizada utilizando o co
 
 - **Cabeçalhos(Headers):**
 
-| Nome | Valor | Observação
-| ------ | ------ | ------ |
-| Content-Type | application/json | Tipo de Conteúdo da requisição.
-| Authorization | Bearer [Token] | Token de Autenticação obtido junto ao Administrador do Inquilino Cosmos Pro
+|Nome|Valor|Observação
+|------|------|------|
+|Content-Type|application/json| Tipo de Conteúdo da requisição.
+|Authorization|Bearer [Token]| Token de Autenticação obtido junto ao Administrador do Inquilino Cosmos Pro
 
 ---
 
 - **Parâmetros de Saída(Response):**
+
 |Campo|Descrição|Tipo|Valores|
 |------|------|------|------|
 |CLIENTE|Código do Cliente|N||
