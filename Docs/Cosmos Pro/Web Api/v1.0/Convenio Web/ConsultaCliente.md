@@ -121,21 +121,34 @@ Exemplo:
 
 ```JSON
 {
-        "Parameters":
-{
+  "Parameters":
+  {
     "Loja":"1",
     "Buscao":"Maria da Silva"
-        },
-{
-    "Loja":"2",
-    "Buscao":"00.000.000-00"
-        },
-{
-    "Loja":"2",
-    "Buscao":"1338770770"
-        }
-    }
+  }
+}
 ```
+
+```JSON
+{
+  "Parameters":
+  {
+    "Loja":"1",
+    "Buscao":"000.000.000-00"
+  }
+}
+```
+
+```JSON
+{
+  "Parameters":
+  {
+    "Loja":"1",
+    "Buscao":"1338770770"
+  }
+}
+```
+
 
 ##### :outbox_tray: Resposta
 
