@@ -29,12 +29,6 @@ Para consumir a API de maneira adequada, na composição url de destino da requi
 
 - [Autenticação.](Autenticação.md)
 
-## Convênio Web
-
-- [Consulta de Cliente.](/Convenio Web/ConsultaCliente.md)
-- [Saldo de Cliente.](/Convenio Web/SaldoCliente.md)
-- [Vale Crédito.](/Convenio Web/ValeCredito.md)
-
 ## Saiba mais ...
 
 - [Operações Crud em Objetos Dinâmicos.](CRUD Objetos Dinamicos.md)
