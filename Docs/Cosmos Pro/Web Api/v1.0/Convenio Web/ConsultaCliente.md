@@ -17,9 +17,9 @@ A consulta de consulta de cliente da API Cosmos Pro é realizada utilizando o co
 
 - **Parametros URL Base**
 
-    | Nome | Tipo | Observação
-| ------ | ------ | ------ |
-| Name | String | Nome da CustomView a ser acionada. 
+|Nome|Tipo|Observação
+|------ |------|------|
+|Name|String|Nome da CustomView a ser acionada. 
 
 ---
 
