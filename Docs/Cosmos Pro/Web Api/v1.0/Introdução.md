@@ -26,3 +26,6 @@ Para consumir a API de maneira adequada, na composição url de destino da requi
 - [Operações Crud em Objetos Dinâmicos.](CRUD Objetos Dinamicos.md)
 - [Consumento Consultas Customizadas.](CustomViews.md)
 - [Consumento Ações Customizadas.](CustomActions.md)
+- [Consulta de Cliente.](Convenio Web/ConsultaCliente.md)
+- [Saldo de Cliente.](Convenio Web/SaldoCliente.md)
+- [Vale Crédito.](Convenio Web/ValeCredito.md)
