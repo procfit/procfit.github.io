@@ -37,6 +37,14 @@ A consulta de consulta de cliente da API Cosmos Pro é realizada utilizando o co
 
 ---
 
+- **Parâmetros de Entrada(Request):**
+
+|Campo|Descrição|Tipo|Valores|
+|------|------|------|------|
+|LOJA|Código do estabelecimento onde esta sendo realizada a busca|N||
+|BUSCA|Informação de busca para localizar o cliente|A|pode ser informado: Nome, Telefone ou CPF do cliente|
+
+
 - **Parâmetros de Saída(Response):**
 
 |Campo|Descrição|Tipo|Valores|
