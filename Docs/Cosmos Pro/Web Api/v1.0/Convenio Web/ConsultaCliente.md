@@ -124,7 +124,7 @@ Exemplo:
   "Parameters":
   {
     "Loja":"1",
-    "Buscao":"Maria da Silva"
+    "Busca":"Maria da Silva"
   }
 }
 ```
@@ -134,7 +134,7 @@ Exemplo:
   "Parameters":
   {
     "Loja":"1",
-    "Buscao":"000.000.000-00"
+    "Busca":"000.000.000-00"
   }
 }
 ```
@@ -144,7 +144,7 @@ Exemplo:
   "Parameters":
   {
     "Loja":"1",
-    "Buscao":"1338770770"
+    "Busca":"1338770770"
   }
 }
 ```
