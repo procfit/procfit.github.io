@@ -1,7 +1,8 @@
 # Convênio Web
+  Página com os métodos disponíveis para utilização do processo de Convênio Web
 
 ## Lista de métodos
 
-- [Consulta de Cliente.](/Convenio Web/ConsultaCliente.md)
-- [Consulta de Saldo.](/Convenio Web/SaldoCliente.md)
-- [Consulta de Vale Crédito.](/Convenio Web/ValeCredito.md)
+- [Consulta de Cliente.](ConsultaCliente.md)
+- [Consulta de Saldo.](SaldoCliente.md)
+- [Consulta de Vale Crédito.](ValeCredito.md)
