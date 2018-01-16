@@ -2,6 +2,6 @@
 
 ## Lista de métodos
 
-Convenio Web/ConsultaCliente.md
-Convenio Web/SaldoCliente.md
-Convenio Web/ValeCredito.md
+- [Consulta de Cliente.](/Convenio Web/ConsultaCliente.md)
+- [Consulta de Saldo.](/Convenio Web/SaldoCliente.md)
+- [Consulta de Vale Crédito.](/Convenio Web/ValeCredito.md)
