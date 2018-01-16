@@ -37,6 +37,23 @@ A consulta de vale crédito da API Cosmos Pro é realizada utilizando o conceito
 
 ---
 
+- **Parâmetros de Entrada(Request):**
+
+|Campo|Descrição|Tipo|Valores|
+|------|------|------|------|
+|TIPO_CREDITO|Tipo do vale crédito|N|1-Devolução 2-Vale Presente|
+|NUMERO_CREDITO|Número do vale crédito informado pelo cliente no caixa|N||
+
+
+- **Parâmetros de Saída(Response):**
+
+|Campo|Descrição|Tipo|Valores|
+|------|------|------|------|
+|TIPO_CREDITO|Tipo do vale crédito|N|1-Devolução 2-Vale Presente|
+|CREDITO_CLIENTE|Chave interna da tabela de crédito de cliente|N||
+|VALOR_TOTAL_DEVOLUCAO|Valor total do crédito informado|N||
+
+
 - **Corpo**
 
 	No corpo da requisição HTTP deve-se enviar um objeto JSON com uma elemento para cada parametro necessário para execução da CustomView.
