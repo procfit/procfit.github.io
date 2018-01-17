@@ -1,6 +1,6 @@
 ## Valida Desconto Cosmos Pro Web API
 
-A consulta de saldo de cliente da API Cosmos Pro é realizada utilizando o conceito de CustomAction.
+A validação de desconto da API Cosmos Pro é realizada utilizando o conceito de CustomAction.
 É necessário o envio do Token no header, e os parâmetros com informações dos itens, descritas abaixo, no body da mensagem em formato JSON ou XML
 
 ##### :outbox_tray: Requisição
@@ -8,7 +8,7 @@ A consulta de saldo de cliente da API Cosmos Pro é realizada utilizando o conce
 
 - **Url** 
 
-	*http:// **[ambiente]**.cosmospro.com.br:**[porta]**/odata/CustomViews(Name=**'ValidaDesconto'**)/ExecuteAndReceive()?api-version=1.0*
+	*http:// **[ambiente]**.cosmospro.com.br:**[porta]**/api/ExecuteCustomAction/ExecuteAction?ActionName=ValidaDesconto&api-version=1.0*
 	
     > ### :grey_exclamation: Informação
     > Os valor **"ValidaDesconto"** fornecido para o parametro *Name* da ação *ExecuteAndReceive*.
