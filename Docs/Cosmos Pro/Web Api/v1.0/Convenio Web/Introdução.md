@@ -5,4 +5,4 @@
 
 - [Consulta de Cliente.](ConsultaCliente.md)
 - [Consulta de Saldo.](SaldoCliente.md)
-- [Consulta de Vale Crédito.](ValeCredito.md)
+- [Validação de Desconto.](ValidaDesconto.md)
