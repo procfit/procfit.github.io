@@ -44,7 +44,7 @@ A validação de desconto da API Cosmos Pro é realizada utilizando o conceito d
 |------|------|------|------|
 |IDITEM|ID de identificação do item (Sequencial)|N||
 |EAN|Ean do produto|N||
-|PRECOBRUTO|Preço Bruto do produto|N||
+|PRECOBRUTO|Preço bruto do produto|N||
 |DESCONTO|Valor do desconto do produto|N||
 |PRECOLIQUIDO|Preço líquido do Produto|N||
 
@@ -55,7 +55,7 @@ A validação de desconto da API Cosmos Pro é realizada utilizando o conceito d
 |------|------|------|------|
 |IDITEM|ID de identificação do item (Sequencial)|N||
 |EAN|Ean do produto|N||
-|PRECOBRUTO|Preço Bruto do produto|N||
+|PRECOBRUTO|Preço bruto do produto|N||
 |DESCONTO|Valor do desconto do produto|N||
 |PRECOLIQUIDO|Preço líquido do Produto|N||
 
